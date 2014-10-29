@@ -38,7 +38,7 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 TARGET_PREBUILT_KERNEL := device/tcl/s720t/kernel
 
 #recovery
-RECOVERY_VARIANT := philz
+#RECOVERY_VARIANT := philz
 TARGET_RECOVERY_INITRC := device/tcl/s720t/init.rc
 TARGET_RECOVERY_FSTAB := device/tcl/s720t/recovery.fstab
 BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
